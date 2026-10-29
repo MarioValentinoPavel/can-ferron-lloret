@@ -1,0 +1,7 @@
+/* Bonny y Author (Indian Type Foundry, Fontshare, licencia ITF Free Font License) alojadas en la propia web */
+@font-face { font-family: 'Bonny'; src: url('../assets/fonts/bonny-300-normal.woff2') format('woff2'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Bonny'; src: url('../assets/fonts/bonny-400-normal.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Bonny'; src: url('../assets/fonts/bonny-500-normal.woff2') format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Author'; src: url('../assets/fonts/author-400-normal.woff2') format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Author'; src: url('../assets/fonts/author-500-normal.woff2') format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Author'; src: url('../assets/fonts/author-600-normal.woff2') format('woff2'); font-weight: 600; font-style: normal; font-display: swap; }
